@@ -26,6 +26,7 @@ Story Mode (if not incorporated into tutorial mode)
 Gameplay style
   Use accelerometer in phone for tilt action to sway character side to side while navigating up the screen avoiding objects
   Optional: use swipe left/right to avoid objects while navigating up the screen
+Add "Google Play Games Services" code to adhere to policies
 
 
 
@@ -33,33 +34,25 @@ Gameplay style
 COMPLETE:
 Established code sharing
   GitHub
-  
 Determine platform
   Android/Mobile
   $25 initial fee for google developer (Jai to pay)
   Up to 30% royalty (Google withdraws % before depositing earnings)
-  
 Determine programming language
   C++
-  
 Determine IDE
   Visual Studio 2017
   Free download
   0% royalty
-  
 Determine game engine
   Unreal Engine 4
   Free download
   5% royalty over $3k per quarter (Jai to track gross revenue and send royalty payment to EpicGames)
-  
 Determine game cost
   Free to play for consumers
-  
 Determine revenue generation
   Ads in app using admob or inmobi
-  
 Concept art based on initial character design
-
 Characters
   Levi - Protagonist - upside down male raindrop
   Lily - Major - female raindrop
