@@ -1,0 +1,9 @@
+#include <iostream>
+#include <string>
+#include "rain.cpp"
+#include "rain.h"
+
+int main()
+{
+    return 0;
+}
