@@ -1,11 +1,13 @@
 Software Development Life Cycle (SDLC)
 
 Phase 1: Define the problem to be solved
-Phase 2: Design a solution
+Phase 2: Design a solution to the problem
 Phase 3: Write a program that implements the solution
 Phase 4: Compile the program
 Phase 5: Link object files
 Phase 6: Test and debug program
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Phase 1
 Write a program that impersonates a rainstorm and allows the 
