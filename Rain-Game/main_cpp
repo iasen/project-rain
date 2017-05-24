@@ -1,3 +1,5 @@
+#pragma once
+
 #include <iostream>
 #include <string>
 #include "rain.cpp"
@@ -7,3 +9,38 @@ int main()
 {
     return 0;
 }
+
+// static logo pages
+	// company logo
+	// unreal logo
+// landing page
+// advertisement page
+// statistics page
+
+// highscore game mode
+	// level start
+	// level end
+	// level progression
+	// player movement, side to side
+	// object spawn
+	// player misses object, increase score
+	// player collides/hits object, game over
+
+	// background sound
+	// background visual
+	// background objects
+
+// story game mode
+		// play cinematic
+	// level start
+	// level end
+		// play cinematic 
+	// level progression
+	// player movement, side to side
+	// object spawn
+	// object die, score tracking
+	// player collides with spawned object
+
+	// background sound
+	// background visual
+	// background objects
