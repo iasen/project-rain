@@ -9,7 +9,6 @@ Character movement
 Object spawners
   Rain
   Hail
-  Snow?
   Lighting
   Birds/Balloons/Misc
 Distractions
@@ -32,8 +31,18 @@ Add "Google Play Games Services" code to adhere to policies
 
 
 COMPLETE:
+Installed Programs
+  Visual Studio 2017 Community
+  Unreal Engine 4 (4.16+)
+  GitHub
+  SourceTree
+  TreeSize
 Established code sharing
   GitHub
+Version Control System (VCS)
+  SourceTree
+Directory File Size
+  TreeSize
 Determine platform
   Android/Mobile
   $25 initial fee for google developer (Jai to pay)
